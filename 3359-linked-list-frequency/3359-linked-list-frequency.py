@@ -23,7 +23,6 @@ class Solution:
 
         for i in d.values():
             curr2 = ListNode(i, curr2)
-            head2 = curr2
 
         return curr2
 
