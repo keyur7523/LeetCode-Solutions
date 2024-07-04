@@ -5,12 +5,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/keyur7523/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [3359-linked-list-frequency](https://github.com/keyur7523/LeetCode-Solutions/tree/master/3359-linked-list-frequency) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/keyur7523/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [3359-linked-list-frequency](https://github.com/keyur7523/LeetCode-Solutions/tree/master/3359-linked-list-frequency) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/keyur7523/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Counting
+|  |
+| ------- |
+| [3359-linked-list-frequency](https://github.com/keyur7523/LeetCode-Solutions/tree/master/3359-linked-list-frequency) |
 <!---LeetCode Topics End-->
