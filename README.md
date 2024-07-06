@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/keyur7523/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0369-plus-one-linked-list](https://github.com/keyur7523/LeetCode-Solutions/tree/master/0369-plus-one-linked-list) |
 | [0835-linked-list-components](https://github.com/keyur7523/LeetCode-Solutions/tree/master/0835-linked-list-components) |
 | [0838-design-linked-list](https://github.com/keyur7523/LeetCode-Solutions/tree/master/0838-design-linked-list) |
 | [3359-linked-list-frequency](https://github.com/keyur7523/LeetCode-Solutions/tree/master/3359-linked-list-frequency) |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-linked-list-components](https://github.com/keyur7523/LeetCode-Solutions/tree/master/0835-linked-list-components) |
+## Math
+|  |
+| ------- |
+| [0369-plus-one-linked-list](https://github.com/keyur7523/LeetCode-Solutions/tree/master/0369-plus-one-linked-list) |
 <!---LeetCode Topics End-->
